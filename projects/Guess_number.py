@@ -31,3 +31,9 @@ while chances > 0:
         cows=0
         chances=chances-1
 print(num)
+
+
+"""
+if the digit is correct and position also in correct positon then shows one cow
+if the digit only is correct ,but position was wrong then add one bull
+"""
